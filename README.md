@@ -83,6 +83,9 @@ This document outlines the structured process for a typical software engineering
 ### **Duration**
 - 45-60 minutes per round.
 
+## **Useful Links**
+- ChatGPT: [Link](https://chatgpt.com/share/67b930dc-c0b0-8004-b95f-9f521380f6a7)
+
 ---
 
 ## **5. System Design Round**
