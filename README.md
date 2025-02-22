@@ -169,6 +169,7 @@ This document outlines the structured process for a typical software engineering
 # Coding Round Interview Guide
 
 This guide provides a step-by-step approach to acing the coding round during technical interviews. It is based on best practices and insights from Yangshun's blog, an ex-Meta Staff Engineer and author of the Blind 75 list.
+source: [Link](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/)
 
 ## Table of Contents
 1. [Key Takeaways](#key-takeaways)
