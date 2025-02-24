@@ -97,7 +97,7 @@ This document outlines the structured process for a typical software engineering
 - 45-60 minutes per round.
 
 #### Useful Links
-- While in the intreview: [Go To Detials](./3.%20Coding%20Round/in-interview.md)
+- While in the intreview: [Go To Interview](./3.%20Coding%20Round/in-interview.md)
 - ChatGPT: [Link](https://chatgpt.com/share/67b930dc-c0b0-8004-b95f-9f521380f6a7)
 
 ---
@@ -121,6 +121,10 @@ This document outlines the structured process for a typical software engineering
 
 ### Duration
 - 45-60 minutes.
+
+
+#### Useful Links
+- While in the intreview: [Go To Interview](./5.%20System%20Design%20Interview/in-interview.md)
 
 ---
 
