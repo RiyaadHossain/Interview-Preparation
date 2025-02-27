@@ -104,3 +104,6 @@ The system design interview is a critical part of technical interviews, especial
 ---
 
 Good luck with your system design interviews! 🚀
+
+### Resources
+ - Blog Monster Article: [Link](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
