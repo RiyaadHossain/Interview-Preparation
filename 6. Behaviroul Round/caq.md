@@ -8,9 +8,9 @@ This document provides a structured approach to answering commonly asked behavio
 
 1. [Career Transition & Background](#1-career-transition--background)
 2. [Work Experience & Impact](#2-work-experience--impact)
-3. [Problem-Solving & Technical Skills](#3-problem-solving--technical-skills)
-4. [Teamwork & Collaboration](#4-teamwork--collaboration)
-5. [Time Management & Prioritization](#5-time-management--prioritization)
+3. [Teamwork & Collaboration](#3-teamwork--collaboration)
+4. [Time Management & Prioritization](#4-time-management--prioritization)
+5. [Problem-Solving & Technical Skills](#5-problem-solving--technical-skills)
 6. [Mistakes & Challenges](#6-mistakes--challenges)
 7. [Learning & Growth Mindset](#7-learning--growth-mindset)
 8. [Company Fit & Values](#8-company-fit--values)
@@ -96,21 +96,7 @@ Employers want to assess the depth of your experience, how you've contributed to
 
 ---
 
-## **3. Problem-Solving & Technical Skills**
-
-### _What they expect:_
-
-Companies evaluate how you approach problem-solving, handle debugging, and optimize solutions. They look for structured thinking, analytical skills, and efficiency in solving complex problems.
-
-### **Common Questions:**
-
-- How do you approach debugging a challenging issue?
-- Describe a time you optimized a solution for better performance.
-- How do you stay up to date with new technologies?
-
----
-
-## **4. Teamwork & Collaboration**
+## **3. Teamwork & Collaboration**
 
 ### _What they expect:_
 
@@ -124,7 +110,7 @@ Working well with a team is crucial in software development. Employers want to h
 
 ---
 
-## **5. Time Management & Prioritization**
+## **4. Time Management & Prioritization**
 
 ### _What they expect:_
 
@@ -135,6 +121,20 @@ Employers want to know how you manage your time, prioritize tasks, and handle mu
 - How do you prioritize your tasks when you have multiple deadlines?
 - Describe a time when you had to manage multiple responsibilities.
 - How do you ensure that you meet deadlines?
+
+---
+
+## **5. Problem-Solving & Technical Skills**
+
+### _What they expect:_
+
+Companies evaluate how you approach problem-solving, handle debugging, and optimize solutions. They look for structured thinking, analytical skills, and efficiency in solving complex problems.
+
+### **Common Questions:**
+
+- How do you approach debugging a challenging issue?
+- Describe a time you optimized a solution for better performance.
+- How do you stay up to date with new technologies?
 
 ---
 
