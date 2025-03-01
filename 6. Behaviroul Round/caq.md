@@ -13,8 +13,9 @@ This document provides a structured approach to answering commonly asked behavio
 5. [Problem-Solving & Technical Skills](#5-problem-solving--technical-skills)
 6. [Mistakes & Challenges](#6-mistakes--challenges)
 7. [Learning & Growth Mindset](#7-learning--growth-mindset)
-8. [Company Fit & Values](#8-company-fit--values)
-9. [Future Goals & Aspirations](#9-future-goals--aspirations)
+8. [Leadership & Initiative](#8-leadership--initiative)
+9. [Company Fit & Values](#9-company-fit--values)
+10. [Future Goals & Aspirations](#10-future-goals--aspirations)
 
 ---
 
@@ -166,7 +167,21 @@ Companies prefer candidates who are eager to learn, adapt, and continuously impr
 
 ---
 
-## **8. Company Fit & Values**
+## **8. Leadership & Initiative**
+
+### _What they expect:_
+
+Employers want to see examples of your leadership skills and your ability to take initiative. They look for instances where you have led projects, mentored others, or taken proactive steps to improve processes.
+
+### **Common Questions:**
+
+- Describe a time when you took the lead on a project.
+- How do you motivate and inspire your team?
+- Can you give an example of a time when you identified a problem and took the initiative to solve it?
+
+---
+
+## **9. Company Fit & Values**
 
 ### _What they expect:_
 
@@ -180,7 +195,7 @@ Employers want to know how well you align with the company's culture and values.
 
 ---
 
-## **9. Future Goals & Aspirations**
+## **10. Future Goals & Aspirations**
 
 ### _What they expect:_
 
