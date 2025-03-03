@@ -75,7 +75,32 @@ Employers want to assess the depth of your experience, how you've contributed to
 ### **Common Questions:**
 
 <details>
-  <summary><b>Can you describe a significant project you worked on and your contributions?</b></summary>
+  <summary><b>Can you describe a significant project/task you worked on and your contributions?</b></summary>
+
+### Story 1
+
+#### Situation:
+
+When I joined the company, the backend system had nearly 200 unresolved backlog issues, primarily in the Restaurant Module. Shortly after, a junior backend engineer resigned, leaving only me and a senior engineer to handle these issues. The module was unstable, and the company needed it to be production-ready as soon as possible.
+
+#### Task:
+
+My responsibility was to fix as many backend issues as possible and ensure the Restaurant Module was stable and ready for release.
+
+#### Action:
+
+To achieve this, I took a structured approach:
+
+- Prioritized critical issues based on impact and urgency.
+- Analyzed logs and debugging tools to efficiently identify root causes.
+- Refactored inefficient code and optimized queries to enhance system performance.
+- Collaborated with the senior engineer to ensure long-term maintainability.
+
+#### Result:
+
+Within 3 to 4 months, I successfully resolved over 100 critical issues, improving 30% system stability. As a result, the Restaurant Module became production-ready, allowing the company to move forward with its planned release.
+
+### Story 2
 
 #### Situation:
 
@@ -95,6 +120,39 @@ Employers want to assess the depth of your experience, how you've contributed to
 
 </details>
 
+<details>
+  <summary><b>Can you describe a situation where you optimized a system or process, and what was the outcome?</b></summary>
+
+#### Situation:
+
+"The Restaurant API in our system was experiencing high latency due to inefficient query execution and unnecessary computations. This led to slow response times, affecting the user experience and overall system performance. Recognizing the impact, I proposed an API optimization initiative to the Product Manager to improve its efficiency."
+
+#### Task:
+
+"My primary objective was to reduce API latency significantly and ensure faster response times while maintaining data accuracy and system reliability."
+
+#### Action:
+
+"I took a structured approach to optimize the API:
+
+- Conducted a thorough code review to identify performance bottlenecks.
+- Removed unnecessary calculations and redundant processing to streamline execution.
+- Optimized database queries by leveraging indexing and efficient query structures to reduce retrieval time.
+- Tested performance improvements using real-world load scenarios to validate the changes."
+
+#### Result:
+
+"As a result, the API response time improved by nearly 50%, significantly enhancing system efficiency. This optimization not only improved user experience but also reduced server load, allowing the system to handle more requests seamlessly. The solution provided long-term scalability and maintainability, aligning with business goals."
+
+</details>
+
+<details>
+  <summary><b>Tell me about a time when you had to solve a critical production issue under pressure.</b></summary>
+
+Comming Soon...
+
+</details>
+
 ---
 
 ## **3. Teamwork & Collaboration**
@@ -105,9 +163,112 @@ Working well with a team is crucial in software development. Employers want to h
 
 ### **Common Questions:**
 
-- Describe a time you worked in a team to achieve a goal.
-- How do you handle disagreements in a team setting?
-- How do you ensure smooth collaboration in a remote work environment?
+<details>
+  <summary>
+    <b>Describe a time you worked in a team to achieve a goal.</b>
+  </summary>
+
+**Situation:**  
+While working on restaurant module, I was responsible for developing the **waiter module** to ensure the project was completed on time.
+
+**Task:**  
+My main responsibility was to **design and develop the waiter-related APIs**, collaborating closely with the **Android developer**, who was responsible for the frontend.
+
+**Action:**  
+After thoroughly understanding the **waiter module** requirements, I analyzed and designed the necessary APIs that would support the required functionalities. I then discussed my approach with the senior backend engineer to get his feedback and **ensure alignment with existing system architecture**. Once finalized, I proceeded with the development, focusing on **low-latency responses** and a structured API pattern to maintain efficiency and scalability. Throughout the process, I collaborated with the Android developer to ensure API integration. Our dedication to delivering the system was so high that I still can remember we even worked beyond regular hours to refine the module and meet all business needs.
+
+**Result:**  
+By maintaining clear communication, thorough planning, and efficient execution, I successfully developed and integrated the **waiter module** on time. The final implementation was **highly reliable and performant**, ensuring smooth operations for the restaurant staff.
+
+</details>
+
+<details>
+  <summary>
+    <b>How do you handle disagreements in a team setting?</b>
+  </summary>
+
+#### Theoretical approach
+
+I handle disagreements in a team setting by focusing on **constructive communication, collaboration, and problem-solving**:
+
+1. **Active Listening & Understanding** – I start by listening carefully to all perspectives without bias to understand the root of the disagreement.
+2. **Clarifying Objectives** – I ensure that everyone is aligned on the common goal and business requirements, which helps shift the focus from personal opinions to objective solutions.
+3. **Encouraging Open Discussion** – I facilitate a respectful discussion where all team members can express their viewpoints and concerns while maintaining professionalism.
+4. **Proposing & Evaluating Solutions** – I analyze different approaches, weighing their pros and cons based on feasibility, performance, and long-term impact.
+5. **Seeking Feedback & Compromise** – If needed, I involve senior engineers or stakeholders for insights and work toward a **data-driven, practical compromise**.
+6. **Focusing on Team Growth** – I ensure that, even after a disagreement, the team remains collaborative and motivated, treating it as a learning experience.
+
+By following this approach, I maintain a positive team dynamic and ensure that disagreements lead to **better decisions and stronger teamwork** rather than conflict.
+
+#### Story approach
+
+**Situation:**
+"During the development of the Waiter Module, the Android developer proposed adding a feature that was outside the project’s scope. While the feature was interesting, it wasn’t aligned with the current business requirements and would have delayed our timeline."
+
+**Task:**
+"My responsibility was to address this request while ensuring that my high-priority tasks, which were critical to the project’s success, were not compromised."
+
+**Action:**
+"I initiated a respectful and open conversation with the developer to understand their perspective. I explained the urgency of my current tasks and how adding the new feature could impact the project timeline. I made sure to acknowledge the value of their suggestion and documented it for future consideration. I also proposed revisiting the idea in the next sprint or after the current deliverables were completed."
+
+**Result:**
+"This approach not only maintained a positive working relationship but also ensured that we stayed on track to meet our deadlines. The developer appreciated the transparency, and we were able to focus on delivering the core functionalities without unnecessary delays."
+
+</details>
+
+<details>
+  <summary>
+    <b>How do you ensure smooth collaboration in a remote work environment?</b>
+  </summary>
+
+#### Theoretical Approach
+
+I ensure smooth collaboration in a remote work environment by following a structured and transparent approach:
+
+**Action:**
+
+1. **Agile Sprint Planning & Task Tracking:**
+
+   - Conducting a **1-2 week (or relavant timeline) sprint cycle**, selecting tasks from the backlog and setting clear targets for each sprint.
+   - Use **Zira (Kanban board)** to track task progress, ensuring visibility and accountability.
+
+2. **Daily Stand-ups & Dependency Management:**
+
+   - Hold **daily stand-up meetings** to report progress, discuss blockers, and ensure alignment within the team.
+
+3. **Effective Communication & Real-time Collaboration:**
+   - Use **Slack for direct messaging** and quick issue resolution.
+   - When more detailed discussions needed, leverage **Google Meet** for video calls and screen sharing to clarify technical details efficiently.
+
+By implementing these strategies, I ensure efficient communication and well-connected team leading to optimized work environment with high productivity. 🚀
+
+#### Story Approach
+
+**Situation:** At **Immabeme Solution Ltd.,** our team worked in a remote setup, developing and maintaining a restaurant management system. Ensuring **efficient collaboration** was crucial to keep the development cycle smooth and productive.
+
+**Action:**
+
+1. **Agile Sprint Planning & Task Tracking:**
+
+   - We followed a **1-2 week sprint cycle**, selecting tasks from the backlog and setting clear targets for each sprint.
+   - Used **Zira (Kanban board)** to track task progress, ensuring visibility and accountability.
+
+2. **Daily Stand-ups & Dependency Management:**
+
+   - Held **daily stand-up meetings** to report progress, discuss blockers, and ensure alignment within the team.
+   - Whenever we encountered **dependencies**, we proactively communicated through **Slack** to resolve them quickly.
+
+3. **Effective Communication & Real-time Collaboration:**
+   - Used **Slack for direct messaging** and quick issue resolution.
+   - When more detailed discussions were needed, we leveraged **Google Meet** for video calls and screen sharing to clarify technical details efficiently.
+
+**Result:**
+
+- The structured **Kanban tracking ensured transparency**, reducing delays and improving task completion rates.
+- **Daily stand-ups and instant communication** helped identify and resolve blockers faster.
+- The combination of **Slack and Google Meet fostered strong collaboration**, leading to a **more productive and well-connected remote team**.
+
+</details>
 
 ---
 
@@ -119,9 +280,51 @@ Employers want to know how you manage your time, prioritize tasks, and handle mu
 
 ### **Common Questions:**
 
-- How do you prioritize your tasks when you have multiple deadlines?
+<details>
+  <summary>
+    <b>How do you prioritize your tasks when you have multiple deadlines? </b>
+  </summary>
+
+When managing multiple deadlines, I prioritize tasks using a structured approach to ensure efficiency and timely completion. Here’s my typical process:
+
+1. **Assess Deadlines and Urgency** – I list all tasks and categorize them based on their due dates and criticality. Urgent and high-impact tasks come first.
+
+2. **Estimate Effort and Complexity** – I break down each task into smaller steps and estimate how much time and effort each will take.
+
+3. **Use the Eisenhower Matrix** – I classify tasks as:
+
+   - **Urgent & Important** → Do these immediately.
+   - **Important but Not Urgent** → Schedule them strategically.
+   - **Urgent but Not Important** → Delegate if possible.
+   - **Neither Urgent nor Important** → Deprioritize or eliminate.
+
+4. **Time Blocking & Scheduling** – I allocate dedicated time slots for each task using calendars or productivity tools, ensuring I balance workload effectively.
+
+5. **Work on High-Impact Tasks First (MIT Approach)** – I tackle the most important and high-impact tasks during peak productivity hours.
+
+6. **Avoid Multitasking** – I focus on completing one task at a time to maintain quality and efficiency.
+
+7. **Regular Check-Ins & Adjustments** – I review progress daily, adjust priorities if needed, and ensure I’m on track with deadlines.
+
+</details>
+
+<details>
+  <summary>
+    <b>How do you ensure that you meet deadlines?</b>
+  </summary>
+  I ensure that I meet deadlines by following a structured approach:
+
+- **Planning & Prioritization** – I start by listing down core tasks/projects, identifying their scope and complexity, later on, organize based on their priority.
+- **Breaking Down Work** – I divide the tasks/projects into smaller, manageable subtasks with clear deliverables.
+- **Setting Deadlines & Buffer Time** – Each subtask is assigned a deadline, ensuring there's backup time to handle unexpected delays.
+- **Using Productivity Techniques** – I optimize my work environment for deep work and apply the Pomodoro technique to maintain focus and avoid burnout.
+- **Tracking & Adjusting** – I maintain a to-do list and use a Kanban board to track progress, ensuring transparency and timely adjustments when needed.
+
+This approach helps me stay organized, maintain efficiency, and consistently meet deadlines.
+
+</details>
+
 - Describe a time when you had to manage multiple responsibilities.
-- How do you ensure that you meet deadlines?
 
 ---
 
@@ -216,3 +419,12 @@ This document serves as a structured guide to preparing for behavioral interview
 For further refinements or additional sections, feel free to reach out!
 
 ---
+
+<!-- template -->
+
+<details>
+  <summary>
+    <b></b>
+  </summary>
+
+</details>
