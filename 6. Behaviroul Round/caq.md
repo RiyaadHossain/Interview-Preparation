@@ -530,6 +530,7 @@ I stay up to date with new technologies by regularly reading tech blogs, followi
   By integrating AI into my daily work, I enhance both my efficiency and technical growth, allowing me to deliver high-quality solutions faster and more effectively
 
   </details>
+  
 ---
 
 ## **6. Mistakes & Challenges**
@@ -569,8 +570,17 @@ _Communicate the Resolution:_ I updated the team and stakeholders on the resolut
 
 </details>
 
-- How do you approach challenges that seem insurmountable?
-- What is the biggest challenge you have faced in your career, and how did you overcome it?
+<details>
+  <summary>
+    <b>How do you approach challenges that seem insurmountable? (comming soon)</b>
+  </summary>
+</details>
+
+<details>
+  <summary>
+    <b>What is the biggest challenge you have faced in your career, and how did you overcome it? (comming soon)</b>
+  </summary>
+</details>
 
 ---
 
@@ -582,8 +592,19 @@ Companies prefer candidates who are eager to learn, adapt, and continuously impr
 
 ### **Common Questions:**
 
-- How do you keep yourself updated with industry trends?
-- What’s the most challenging concept you’ve learned recently?
+<details>
+  <summary>
+    <b>How do you keep yourself updated with industry trends? (Coming Soon)</b>
+  </summary>
+
+</details> 
+
+<details>
+  <summary>
+    <b>What’s the most challenging concept you’ve learned recently? (Coming Soon)</b>
+  </summary>
+
+</details>
 
 <details>
   <summary>
@@ -624,8 +645,19 @@ Employers want to see examples of your leadership skills and your ability to tak
 
 ### **Common Questions:**
 
-- Describe a time when you took the lead on a project.
-- How do you motivate and inspire your team?
+<details>
+  <summary>
+    <b>Describe a time when you took the lead on a project. (Coming Soon)</b>
+  </summary>
+
+</details>
+
+<details>
+  <summary>
+    <b>How do you motivate and inspire your team? (Coming Soon)</b>
+  </summary>
+
+</details>
 
 <details>
   <summary>
@@ -738,8 +770,19 @@ Considering my experience in full-stack development, problem-solving expertise, 
 
 </details>
 
-- How do you align with our company's values?
-- Describe a time when you had to adapt to a new company culture.
+<details>
+  <summary>
+    <b>How do you align with our company's values? (Coming Soon)</b>
+  </summary>
+
+</details>
+
+<details>
+  <summary>
+    <b> Describe a time when you had to adapt to a new company culture. (Coming Soon)</b>
+  </summary>
+
+</details>
 
 ---
 
@@ -818,7 +861,8 @@ For further refinements or additional sections, feel free to reach out!
 
 <!-- template -->
 
-<!-- <details>
+<!-- 
+<details>
   <summary>
     <b></b>
   </summary>
