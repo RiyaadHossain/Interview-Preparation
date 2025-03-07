@@ -408,6 +408,7 @@ Companies evaluate how you approach problem-solving, handle debugging, and optim
     <b>How do you approach to a challenging technical issue?</b>
   </summary>
 
+
 I approach a challenging technical issue with a structured and systematic process to quickly identify and resolve the root cause:
 
 **1. Reproduce the Issue:**
@@ -511,6 +512,24 @@ I stay up to date with new technologies by regularly reading tech blogs, followi
 
 </details>
 
+<details>
+  <summary>
+    <b>How do you AI in your work?</b>
+  </summary>
+
+  I've integrated AI tools into my daily workflow to enhance productivity, problem-solving and ease my learning proccess. 
+  
+  - Specifically, I leverage GitHub Copilot to automate repetitive coding tasks and accelerate code generation, significantly boosting my development speed. 
+
+  - When faced with complex bugs or challenging problem-solving scenarios, I turn to large language models like Gemini, ChatGPT, and DeepSeek to point out root cause with relevant code snippets and alternative approaches. 
+
+  - Furthermore, I use these AI resources to streamline my learning process, allowing me to quickly access simplified explanations, relevant code examples, and different perspectives. 
+
+  - For research and staying current with industry trends, AI has become an indispensable daily tool, allowing me to quickly filter and summirize vast amounts of information. Which ensure I stay up to date with industry trends and best practices.
+
+  By integrating AI into my daily work, I enhance both my efficiency and technical growth, allowing me to deliver high-quality solutions faster and more effectively
+
+  </details>
 ---
 
 ## **6. Mistakes & Challenges**
