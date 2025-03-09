@@ -9,7 +9,7 @@ This document outlines the structured process for a typical software engineering
 - [Online Assessment (OA)](#online-assessment-oa)
 - [Initial Phone Screening](#initial-phone-screening)
 - [Coding Rounds](#coding-rounds)
-- [Low-Level Design Round](#low-level-design-round)
+- [Maching Coding/Low-Level Design Round](#low-level-design-round)
 - [System Design Round](#system-design-round)
 - [Behavioral Round](#behavioral-round)
 - [Team Selection/Salary Negotiation](#team-selectionsalary-negotiation)
@@ -64,11 +64,10 @@ This document outlines the structured process for a typical software engineering
 
 #### Useful Links
 - While in the interview: [Go To Interview](./3.%20Coding%20Round/in-interview.md)
-- ChatGPT: [Link](https://chatgpt.com/share/67b930dc-c0b0-8004-b95f-9f521380f6a7)
 
 ---
 
-## Low-Level Design Round
+## Maching Coding/Low-Level Design Round
 
 **When:** For roles requiring strong software design and object-oriented programming skills.
 

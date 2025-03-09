@@ -450,9 +450,13 @@ After domumenting the issue, I reflect on the process to identify any lessons le
 "To debug the issue, I followed a systematic approach:
 
 _Reproduce the Bug:_ I first reproduced the bug in a controlled environment to understand the exact conditions under which it occurred.
+
 _Analyze the Code:_ I reviewed the relevant code sections and used console logs to trace the data flow and identify where the process was breaking down.
+
 _Identify the Root Cause:_ I discovered that the MongoDB query responsible for updating the food item statuses wasn’t functioning correctly. Specifically, it wasn’t handling multiple data updates efficiently.
+
 _Research and Optimize:_ I referred to the MongoDB documentation to understand best practices for updating multiple data entries and optimized the query accordingly.
+
 _Test the Fix:_ After implementing the fix, I conducted thorough testing to ensure the issue was resolved and that no new issues were introduced."
 
 **Result:**
@@ -473,6 +477,7 @@ _Test the Fix:_ After implementing the fix, I conducted thorough testing to ensu
 
 **Action:**
 "To achieve this, I took the following steps:
+
 _Identify and List Down:_ First, I identified and list down all the necessary APIs which are relavant to the senario.
 
 _Analyze the Code:_ I reviewed the API code to identify bottlenecks and areas for improvement. I discovered that several unnecessary calculations were being performed during each request, which added significant overhead.
@@ -514,7 +519,7 @@ I stay up to date with new technologies by regularly reading tech blogs, followi
 
 <details>
   <summary>
-    <b>How do you AI in your work?</b>
+    <b>How do you utilize AI in your work?</b>
   </summary>
 
   I've integrated AI tools into my daily workflow to enhance productivity, problem-solving and ease my learning proccess. 
