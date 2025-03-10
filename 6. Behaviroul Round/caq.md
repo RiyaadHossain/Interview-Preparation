@@ -16,6 +16,7 @@ This document provides a structured approach to answering commonly asked behavio
 8. [Leadership & Initiative](#8-leadership--initiative)
 9. [Company Fit & Values](#9-company-fit--values)
 10. [Future Goals & Aspirations](#10-future-goals--aspirations)
+11. [Resources to Learn](#11-resources-to-learn)
 
 ---
 
@@ -727,7 +728,7 @@ Employers want to know how well you align with the company's culture and values.
 
 #### Ideal Response:
 
-**Company Research**
+**Company Research:**
 I want to work for your company because I deeply admire your mission to [insert company mission or vision, e.g., "revolutionize the way people interact with technology"]. Your commitment to [specific value or initiative, e.g., "innovation, sustainability, or user-centric design"] resonates with my personal and professional values.
 
 **Alignment with Your Goals:**
@@ -768,7 +769,7 @@ I believe my experience, skill set, and mindset make me a strong candidate for t
 **Growth Mindset & Staying Updated with Industry Trends:**
 - I have a strong mindset to continuously learn and improve, keeping myself updated with emerging technologies through self-learning, personal projects, and industry research.
 
-*Benefits* This ensures that I bring modern development practices and cutting-edge solutions to your team.
+*Benefits:* This ensures that I bring modern development practices and cutting-edge solutions to your team.
 
 **Final Thought**
 Considering my experience in full-stack development, problem-solving expertise, adaptability, and commitment to continuous learning, I believe I am a great fit for this position. I am excited about the opportunity to contribute, grow, and make an impact at [Company Name]. 🚀
@@ -855,6 +856,11 @@ In the long run, I see this role as an opportunity to grow into a Senior Enginee
 </details>
 
 ---
+
+## **11. Resources to Learn**
+ - Amazon Leadership Principle: [Link1](https://www.aboutamazon.com/about-us/leadership-principles) | [Link2](https://jdmeier.com/amazon-leadership-principles/)
+ - Microsoft Blog: [Link](https://www.microsoft.com/en-us/microsoft-365-life-hacks/presentations/behavioral-interview-questions-answers)
+ - Frequetly Asked Interview Question and Answer: [Link](https://pradeesh-kumar.medium.com/top-behavioural-interview-questions-and-example-answers-for-software-engineers-c5c4df7ce5fe)
 
 ## **Conclusion**
 
