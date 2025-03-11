@@ -859,6 +859,7 @@ In the long run, I see this role as an opportunity to grow into a Senior Enginee
 
 ## **11. Resources to Learn**
  - Amazon Leadership Principle: [Link1](https://www.aboutamazon.com/about-us/leadership-principles) | [Link2](https://jdmeier.com/amazon-leadership-principles/)
+ - Amazon LP Guide: [Link1](https://interviewing.io/guides/amazon-leadership-principles) | [Link2](https://www.scarletink.com/p/interviewing-at-amazon-leadership-principles)
  - Microsoft Blog: [Link](https://www.microsoft.com/en-us/microsoft-365-life-hacks/presentations/behavioral-interview-questions-answers)
  - Frequetly Asked Interview Question and Answer: [Link](https://pradeesh-kumar.medium.com/top-behavioural-interview-questions-and-example-answers-for-software-engineers-c5c4df7ce5fe)
 
