@@ -29,7 +29,7 @@ You can learn more about my work and achievements here:
 - **👔 LinkedIn**: https://www.linkedin.com/in/riyaad-hossain/
 - **💻 GitHub**: https://github.com/RiyaadHossain
 - **🧑‍💻 Codeforces**: https://codeforces.com/profile/AlgorithmicRiyad
-- **🍴 CodeChef**: https://www.codechef.com/users/riyadhossain
+- **🧩 LeetCode**: https://leetcode.com/u/Riyad-Hossain/
 
 I’d love the opportunity to discuss how my skills and experiences can contribute to [Company Name]. Please let me know if there’s a convenient time for a quick chat. 
 

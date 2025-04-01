@@ -79,10 +79,12 @@ Here’s why I believe I’d be a great fit / Here's what I bring / A bit about 
 Would love to discuss how my experience aligns with your needs. Let’s connect!  
 
 ### 📌 Check out my work:  
-- 📄 [Resume](https://drive.google.com/file/d/1SEG9JXOVzQXMEpApLUkcnmLTK5qeNRxr/view?usp=sharing)  
-- 🌐 [Portfolio](https://riyad-hossain.vercel.app/)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/riyaad-hossain/)   
-- ⚡ [Codeforces](https://codeforces.com/profile/AlgorithmicRiyad) | [CodeChef](https://www.codechef.com/users/riyadhossain)  
+- **📄 Resume**: https://tinyurl.com/resume-of-riyad-01-04-25  
+- **🌐 Portfolio**: https://riyad-hossain.vercel.app/
+- **👔 LinkedIn**: https://www.linkedin.com/in/riyaad-hossain/
+- **💻 GitHub**: https://github.com/RiyaadHossain
+- **🧑‍💻 Codeforces**: https://codeforces.com/profile/AlgorithmicRiyad
+- **🧩 LeetCode**: https://leetcode.com/u/Riyad-Hossain/
 
 Looking forward to your response!  
 
