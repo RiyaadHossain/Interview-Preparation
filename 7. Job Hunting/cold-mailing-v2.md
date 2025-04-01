@@ -24,12 +24,12 @@ Here’s why I believe I’d be a great fit:
 
 ### **🔗 Profile Links**  
 You can learn more about my work and achievements here:  
-- **📄 Resume**: [Link](https://drive.google.com/file/d/1SEG9JXOVzQXMEpApLUkcnmLTK5qeNRxr/view?usp=sharing)  
-- **🌐 Portfolio**: [Link](https://riyad-hossain.vercel.app/)  
-- **👔 LinkedIn**: [Link](https://www.linkedin.com/in/riyaad-hossain/)  
-- **💻 GitHub**: [Link](https://github.com/RiyaadHossain)  
-- **🧑‍💻 Codeforces**: [Link](https://codeforces.com/profile/AlgorithmicRiyad)  
-- **🍴 CodeChef**: [Link](https://www.codechef.com/users/riyadhossain)  
+- **📄 Resume**: https://tinyurl.com/resume-of-riyad-01-04-25  
+- **🌐 Portfolio**: https://riyad-hossain.vercel.app/
+- **👔 LinkedIn**: https://www.linkedin.com/in/riyaad-hossain/
+- **💻 GitHub**: https://github.com/RiyaadHossain
+- **🧑‍💻 Codeforces**: https://codeforces.com/profile/AlgorithmicRiyad
+- **🍴 CodeChef**: https://www.codechef.com/users/riyadhossain
 
 I’d love the opportunity to discuss how my skills and experiences can contribute to [Company Name]. Please let me know if there’s a convenient time for a quick chat. 
 
