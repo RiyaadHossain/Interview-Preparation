@@ -18,9 +18,19 @@ I’m reaching out regarding [specific reason, e.g., a Software Engineer role at
 
     Exploring Openings for a Software Engineer at [Company Name]?
 
-    I hope you’re doing well. I wanted to reach out to see if **[Company Name]** is currently hiring for Software Engineers or if there are any upcoming opportunities.
+    I hope you’re doing well. I wanted to reach out to see if your team is currently hiring for Software Engineers or if there are any upcoming opportunities.
     
     (at the end) If there are any relevant openings, I’d love to discuss how I can contribute. If not, I’d still appreciate staying in touch for future opportunities.
+</details>
+
+<details>
+    <summary>Exploring Opportunities for Software Engineering Role</summary>
+
+    Exploring Openings for a Software Engineer role?
+
+    I hope you're doing well! I’m reaching out to explore any potential software engineering opportunities for me.
+    
+    (at the end) If there’s an open role that aligns with my skills, I’d love the opportunity to connect and discuss further. Looking forward to your response!
 </details>
 
 <details>
@@ -56,17 +66,20 @@ I’m reaching out regarding [specific reason, e.g., a Software Engineer role at
 </details>
 
 
+
 ---
 
 
 Here’s why I believe I’d be a great fit / Here's what I bring / A bit about me:
-### 💻 Technical Expertise  
-- Proficient in **C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, SQL**  
-- Strong foundation in **Software Architecture and OOP Design Patterns**  
 
 ### 🚀 Industry Experience  
 - Collaborated with cross-functional teams on **agile projects**  
 - Expertise in **debugging, feature development, and system optimization** while maintaining consistency and performance 
+
+### 💻 Technical Expertise  
+- Proficient in **C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, SQL**  
+- Strong foundation in **Software Architecture and OOP Design Patterns**  
+
 
 ### 🏆 Competitive Programming & Problem-Solving  
 - **1000+ problems solved, 50+ competitions** participated in  
@@ -75,6 +88,33 @@ Here’s why I believe I’d be a great fit / Here's what I bring / A bit about 
 ### 📚 Fast Learner & Growth Mindset  
 - Learned **Angular in two weeks** and started contributing to a live project which proves my fast learning capability
 - Constantly upskilling through self-learning and hands-on projects  
+
+
+
+<details>
+    <summary>Business Savvy version</summary>
+
+    🚀 Have 1+ year of industry experiency working in agile teams, debugging critical issues, adding new features, and maintaining consistency across systems.
+
+    💻 Ability to build reliable and scalable software that enhances efficiency and user experience. Skilled in C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, and SQL, with a strong foundation in software architecture and OOP.
+
+    🏆 Developed a strong analytical mindset and a structured approach to tackling challenges. Gained these ability by solving 1000+ programming problems and 40+ competitions participation in CodeForces.
+
+    📚 Quickly adapt to new technologies, ensuring minimal downtime and faster development. In my last role, Learned Angular in just two weeks and started contributing to a live project, proving my ability to upskill rapidly and add immediate value.
+</details>
+
+
+<details>
+    <summary>Shorter version of my Elevator Peach</summary>
+
+    🚀 Industry Experience: Worked on agile projects for 1+ year, collaborating with cross-functional teams, debugging, adding new features, and optimizing systems.
+
+    💻 Technical Expertise: Proficient in C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, SQL, with a strong grasp of software architecture and OOP design patterns.
+
+    🏆 Competitive Programming: Solved 1000+ problems, participated in 50+ competitions, and built a strong analytical and algorithmic mindset.
+
+    📚 Fast Learner & Growth Mindset: Learned Angular in two weeks and contributed to a live project, continuously upskilling through self-learning and projects.
+</details>
 
 Would love to discuss how my experience aligns with your needs. Let’s connect!  
 
