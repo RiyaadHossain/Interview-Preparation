@@ -83,7 +83,7 @@ Here’s why I believe I’d be a great fit / Here's what I bring / A bit about 
 
 ### 🏆 Competitive Programming & Problem-Solving  
 - **1000+ problems solved, 50+ competitions** participated in  
-- Developed a strong **analytical and algorithmic mindset**  
+- Developed a strong **analytical and problem solving mindset**  
 
 ### 📚 Fast Learner & Growth Mindset  
 - Learned **Angular in two weeks** and started contributing to a live project which proves my fast learning capability
@@ -94,13 +94,13 @@ Here’s why I believe I’d be a great fit / Here's what I bring / A bit about 
 <details>
     <summary>Business Savvy version</summary>
 
-    🚀 Have 1+ year of industry experiency working in agile teams, debugging critical issues, adding new features, and maintaining consistency across systems.
+    🚀 Have 1+ year of industry experience working in agile teams, debugging critical issues, adding new features, and maintaining consistency across systems.
 
-    💻 Ability to build reliable and scalable software that enhances efficiency and user experience. Skilled in C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, and SQL, with a strong foundation in software architecture and OOP.
+    💻 Ability to build reliable and scalable software that enhances efficiency and user experience. Skilled in varius technologies with a strong foundation in software architecture and OOP.
 
-    🏆 Developed a strong analytical mindset and a structured approach to tackling challenges. Gained these ability by solving 1000+ programming problems and 40+ competitions participation in CodeForces.
+    🏆 Developed strong problem solving and analytical thinking mindset by solving 1000+ programming problems and participating 40+ competitions in CodeForces.
 
-    📚 Quickly adapt to new technologies, ensuring minimal downtime and faster development. In my last role, Learned Angular in just two weeks and started contributing to a live project, proving my ability to upskill rapidly and add immediate value.
+    📚 Quickly adapt to new technologies, ensuring minimal downtime and faster development. In my last role, Learned Angular in just two weeks and started contributing to a live project.
 </details>
 
 
