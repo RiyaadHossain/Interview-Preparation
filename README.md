@@ -41,7 +41,7 @@ This document outlines the structured process for a typical software engineering
 - Informal conversation (no technical questions).
 - **Focus:** Background, career goals, cultural fit.
 - **Duration:** 15-30 minutes.
-- **Common Questions:** [CAQ](./6.%20Behaviroul%20Round/caq.md)
+- **Common Questions:** [CAQ](./2.%20Initial%20Phone%20Screening/2.1%20Behavioral/caq.md)
 
 #### Technical Screening
 - Live coding via platforms like **CoderPad** or **Google Meet**.

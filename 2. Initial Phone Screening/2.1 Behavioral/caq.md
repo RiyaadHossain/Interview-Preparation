@@ -8,11 +8,18 @@ _"I'm doing great, thanks for asking! I’ve been focusing on my job search and 
 
 ## "Tell me a little about yourself and your background."
 
-*"Sure! My journey in software development started when I enrolled in a coding bootcamp, where I learned modern web technologes and built real-life projects. These hands-on experience helped me to land my first role as a backend engineer at an Indian startup, where I worked in agile projects, colloborated with cross functional team, resolved critical bugs, add new features maintaing consistency, sometimes optimizing existing systems.*
 
-*After contributing more than one year, I realized that to grow as a software engineer, strong problem-solving skill and solid Software fundamentals are essential. So, I made the bold decision to step back from full-time work and dedicate a year to mastering data structures, algorithms, and computer science fundamentals. I enrolled in another rigorous bootcamp where I learned software development Lifecycle, OOP. Most importantly I actively participated in competitive programming, solving over 1,000 programming problems and competing in 40+ contests, which significantly improve my problem-solving mindset and sharpened my analytical thinking.*
+Present:
+*"In the past year, I’ve been focused on strengthening my software engineering fundamentals — learning more about software architecture, development lifecycle, and object-oriented programming. Alongside that, I’ve been highly active in competitive programming, where I’ve solved over 1000 programming problems and participated in 40+ contests. This helped me develop a strong problem-solving mindset and improve my analytical thinking ability."*
 
-*Beyond algorithms, I also explored system design, OOP principles, and design patterns. To put my learning into real-life senario, I built two full-stack projects with advanced authentication and dashboard features—  Jobster(a recruiting platform) and employee management system(a dashboard project). Now, with my combined experience in real-world development, problem-solving, and system design, I’m excited to bring my skills to a team where I can contribute meaningfully while continuing to learn and grow."*
+Past:
+*"Before that, I worked as a Junior Backend Engineer at an Indian startup.In that role, I collaborated on agile projects, resolved critical bugs, and improved existing systems. One mentionable contribution was optimizing the restaurant module’s APIs. I reduced the API latency by 50% and significantly enhanced user experience. I also learned Angular in systemetic approach within just two weeks and started contributing to a live project — which shows my quick learning ability."*
+
+Personal Strengths:
+*"Coming from a non-CSE background, I’ve built a habit of researching technology trends, setting clear learning goals, and maintaining discipline in my growth. This journey has shaped my passion for technology and a growth mindset of continuous learning and improving."*
+
+Future:
+*"Now, I’m looking for a role where I can leverage my problem-solving abilities and industry experience to take on more ownership, solve complex challenges, and grow toward becoming a senior software engineer."*
 
 ---
 
