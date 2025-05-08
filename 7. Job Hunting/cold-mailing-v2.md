@@ -7,7 +7,7 @@ I hope this message finds you well. I’m reaching out to express my interest in
 Here’s why I believe I’d be a great fit:  
 
 ### **💻 Technical Expertise**  
- - I have strong proficiency in a variety of programming languages and technologies, including **C/C++, JavaScript, TypeScript, Python, React.js, Node.js, MongoDB, SQL, Software Architecture, and OOPS Design Patterns**.
+ - I have strong proficiency in a variety of programming languages and technologies, including **C/C++, JavaScript, TypeScript, React.js, Node.js, MongoDB, SQL, Software Architecture, and OOPS Design Patterns**.
  - My hands-on experience with these tools has allowed me to build scalable and efficient solutions.  
 
 ### **🏢 Industry Experience**  

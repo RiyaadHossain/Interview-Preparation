@@ -13,13 +13,13 @@ Present:
 *"In the past year, I’ve been focused on strengthening my software engineering fundamentals — learning more about software architecture, development lifecycle, and object-oriented programming. Alongside that, I’ve been highly active in competitive programming, where I’ve solved over 1000 programming problems and participated in 40+ contests. This helped me develop a strong problem-solving mindset and improve my analytical thinking ability."*
 
 Past:
-*"Before that, I worked as a Junior Backend Engineer at an Indian startup.In that role, I collaborated on agile projects, resolved critical bugs, and improved existing systems. One mentionable contribution was optimizing the restaurant module’s APIs. I reduced the API latency by 50% and significantly enhanced user experience. I also learned Angular in systemetic approach within just two weeks and started contributing to a live project — which shows my quick learning ability."*
+*"Before that, I worked as a Junior Backend Engineer at an Indian startup.In that role, I worked on agile projects, collaborated with cross-functional team, resolved critical bugs, and improved existing systems. One mentionable contribution was optimizing the restaurant module’s APIs. I reduced the API latency by 50% and significantly enhanced user experience. I also learned Angular in systemetic approach within just two weeks and started contributing to a live project — which shows my quick learning ability."*
 
 Personal Strengths:
-*"Coming from a non-CSE background, I’ve built a habit of researching technology trends, setting clear learning goals, and maintaining discipline in my growth. This journey has shaped my passion for technology and a growth mindset of continuous learning and improving."*
+*"Coming from a non-CSE background, I’ve built a habit of researching technology trends, setting clear learning goals, and maintaining strict discipline to achieve my goals. This journey has shaped my passion for technology and a growth mindset of continuous learning and improving."*
 
 Future:
-*"Now, I’m looking for a role where I can leverage my problem-solving abilities and industry experience to take on more ownership, solve complex challenges, and grow toward becoming a senior software engineer."*
+*"Now, I’m looking for a role where I can leverage my problem-solving abilities and industry experience of building efficient and scalable systems to take solve complex challenges,  more ownership, and grow toward becoming a senior software engineer."*
 
 ---
 

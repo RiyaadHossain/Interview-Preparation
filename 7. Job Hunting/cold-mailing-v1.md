@@ -3,6 +3,10 @@
 Hi [Receiver's Name],  
 
 I’m reaching out regarding [specific reason, e.g., a Software Engineer role at Company Name]. I’ve been following **[Company Name]** and admire *[mention something specific about their work, mission, or tech stack]*.  
+
+I’m currently seeking software engineering opportunities and would love to contribute my experience in backend engineering, problem-solving, and software development, I strongly believe I can contribute to your team's success.
+
+Would love to connect and explore potential opportunities!
 <details>
     <summary>Hiring Confirmed</summary>
 
@@ -22,6 +26,7 @@ I’m reaching out regarding [specific reason, e.g., a Software Engineer role at
     
     (at the end) If there are any relevant openings, I’d love to discuss how I can contribute. If not, I’d still appreciate staying in touch for future opportunities.
 </details>
+
 
 <details>
     <summary>Exploring Opportunities for Software Engineering Role</summary>
